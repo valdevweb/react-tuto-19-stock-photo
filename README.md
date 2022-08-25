@@ -2,7 +2,7 @@
 
 Application créé en suivant le tutoriel de John Smilga
 
-### mise en pratique basic des compétences suivantes :
+### mise en pratique basic des apprentissages suivants :
 
 - utilisation de l'api onsplash 
 - utilisation d'une variable d'environnement pour l'access key
